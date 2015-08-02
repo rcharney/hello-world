@@ -1,3 +1,3 @@
 # hello-world
 Initial program to check out Git
- This ia a change I just made.
+I deleted the old third line and added this one.
